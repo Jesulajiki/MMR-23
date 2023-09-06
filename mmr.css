@@ -54,7 +54,6 @@ input{
   flex-wrap: wrap;
   /* margin: 0 auto; */
   /* background-color: aqua; */
-  justify-content: space-around;
 }
 #product > div{
   border: 5px solid black;
